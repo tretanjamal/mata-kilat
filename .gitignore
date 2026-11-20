@@ -1,0 +1,15 @@
+# Repo hanya berisi gim (sama dengan isi zip) untuk GitHub Pages, seperti repo kubah-cuaca dan kafe-cilik.
+# Folder pengembangan, brief, dokumen, dan aset mentah tidak diunggah.
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/KREDIT.md
+!/naskah_audio.csv
+!/css/
+!/js/
+!/config/
+!/assets/
+/assets/masuk/
+desktop.ini
